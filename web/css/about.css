@@ -1,0 +1,41 @@
+.internal-intro{
+    background: url("../img/about/bg-about.jpg") no-repeat center;
+    background-size: cover;
+}
+
+.history h2{
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-top: 15px;
+    font-size: 18px;
+    line-height: 25px;
+    letter-spacing: .1em;
+    margin-top: 70px;
+}
+
+.history h2::after{
+    content: "";
+    display: block;
+    width: 80px;
+    height: 3px;
+    background: #000;
+    margin: 10px 0 20px 0;
+}
+
+.history p{
+    line-height: 25px;
+    margin-bottom: 1em;
+    padding-right: 60px;
+    font-size: 18px;
+}
+
+.history li{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    line-height: 30px;
+}
+
+.history .staff{
+    margin-top: 50px;
+    margin-bottom: 25px;
+}
