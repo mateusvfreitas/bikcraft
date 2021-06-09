@@ -1,0 +1,35 @@
+.internal-intro{
+    background: url("../img/portfolio/bg-portfolio.jpg") no-repeat center;
+    background-size: cover;
+}
+
+.quotes{
+    padding: 45px 0px;
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+.quotes p{
+    text-align: center;
+    font-size: 18px;
+    line-height: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-bottom: 20px;
+    font-style: italic;
+}
+
+.quotes cite{
+    text-align: right;
+    font-size: 18px;
+    font-weight: bold;
+    float: right;
+}
+
+.portfolio{
+    margin-top: 12px;
+    height: 750px;
+}
+
+.bf-footer{
+    margin-top: 0px;
+}
